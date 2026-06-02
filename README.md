@@ -1,6 +1,9 @@
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
+
 AIM
+
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
+
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
 APPARATUS REQUIRED:
@@ -21,6 +24,7 @@ S.No.	Components	Range	Quantity
 THEORY:
 KVL:
 Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
+
 KCL:
 Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
